@@ -1,0 +1,1 @@
+select e2.* from emp e1 emp e2 where e1.ename='SMITH' and e1.empno=e2.empno;
